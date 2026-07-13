@@ -2054,10 +2054,10 @@ export default function KusumaJewels() {
             {
               icon: "📍",
               label: "Address",
-              val: "11/316, Main Bazar, Proddatur, Kadapa – 516360",
+              val: "20/902-2-6, CO OPERATIVE COLONY KADAPA, Kadapa – 516001",
             },
-            { icon: "📞", label: "Phone", val: "+91 98491 34500" },
-            { icon: "✉️", label: "Email", val: "nagendrajewellers1@gmail.com" },
+            { icon: "📞", label: "Phone", val: "+91 90325 61911" },
+            { icon: "✉️", label: "Email", val: "kusumajewels123@gmail.com" },
             {
               icon: "⏰",
               label: "Hours",
@@ -2615,7 +2615,7 @@ export default function KusumaJewels() {
                     fontFamily: "sans-serif",
                   }}
                 >
-                  📍 11/316, Main Bazar, Proddatur, Kadapa – 516360
+                  📍 20/902-2-6, CO OPERATIVE COLONY KADAPA, Kadapa – 516001
                 </div>
                 <div
                   style={{
@@ -2625,7 +2625,7 @@ export default function KusumaJewels() {
                     fontFamily: "sans-serif",
                   }}
                 >
-                  📞 +91 98491 34500
+                  📞 +91 90325 61911
                 </div>
                 <div
                   style={{
@@ -2634,7 +2634,7 @@ export default function KusumaJewels() {
                     fontFamily: "sans-serif",
                   }}
                 >
-                  ✉️ nagendrajewellers1@gmail.com
+                  ✉️ kusumajewels123@gmail.com
                 </div>
               </div>
             )}
