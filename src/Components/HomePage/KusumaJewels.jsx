@@ -1142,7 +1142,7 @@ export default function KusumaJewels() {
               src="/logo3.png"
               alt="Kusuma Jewels"
               style={{
-                height: isMob ? 36 : 70,
+                height: isMob ? 36 : 60,
                 width: isMob ? 36 : 70,
                 objectFit: "contain",
                 borderRadius: "10%",
@@ -1150,7 +1150,7 @@ export default function KusumaJewels() {
             />
             <span
               style={{
-                fontSize: isMob ? 12 : 15,
+                fontSize: isMob ? 12 : 18,
                 fontWeight: 700,
                 color: CHARCOAL,
                 letterSpacing: 1,
@@ -1162,7 +1162,7 @@ export default function KusumaJewels() {
               <br />
               <span
                 style={{
-                  fontSize: isMob ? 9 : 11,
+                  fontSize: isMob ? 9 : 14,
                   fontWeight: 400,
                   color: GOLD,
                   letterSpacing: 3,
@@ -2490,7 +2490,7 @@ export default function KusumaJewels() {
                   src="/logo3.png"
                   alt="Kusuma Jewels"
                   style={{
-                    height: 70,
+                    height: 60,
                     width: 70,
                     objectFit: "contain",
                     borderRadius: "10%",
@@ -2498,7 +2498,7 @@ export default function KusumaJewels() {
                 />
                 <span
                   style={{
-                    fontSize: 14,
+                    fontSize: 18,
                     fontWeight: 700,
                     color: "#fff",
                     letterSpacing: 1,
@@ -2510,7 +2510,7 @@ export default function KusumaJewels() {
                   <br />
                   <span
                     style={{
-                      fontSize: 10,
+                      fontSize: 14,
                       fontWeight: 400,
                       color: GOLD,
                       letterSpacing: 3,
