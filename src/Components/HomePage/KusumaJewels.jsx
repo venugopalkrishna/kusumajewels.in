@@ -1651,7 +1651,7 @@ export default function KusumaJewels() {
             >
               {Array(6)
                 .fill(
-                  "✦ FREE JEWELLERY COLLECTION &nbsp;&nbsp; ✦ PREMIUM CRAFTSMANSHIP &nbsp;&nbsp; ✦ KUSUMA JEWELS Kadapa &nbsp;&nbsp; ✦ BRIDAL SPECIAL &nbsp;&nbsp; ",
+                  "✦ FREE JEWELLERY COLLECTION &nbsp;&nbsp; ✦ PREMIUM CRAFTSMANSHIP &nbsp;&nbsp; ✦ KUSUMA JEWELS PRIVATE LIMITED Kadapa &nbsp;&nbsp; ✦ BRIDAL SPECIAL &nbsp;&nbsp; ",
                 )
                 .join("")}
             </div>
@@ -2221,10 +2221,10 @@ export default function KusumaJewels() {
                 margin: 0,
               }}
             >
-              KUSUMA JEWELS ("we" or "us") respects the privacy of our users. We
-              make every effort to treat your personal information safely and
-              securely. This Privacy Policy explains how we collect, use,
-              disclose, and safeguard your data.
+              KUSUMA JEWELS PRIVATE LIMITED ("we" or "us") respects the privacy
+              of our users. We make every effort to treat your personal
+              information safely and securely. This Privacy Policy explains how
+              we collect, use, disclose, and safeguard your data.
             </p>
             <div
               style={{
@@ -2653,7 +2653,7 @@ export default function KusumaJewels() {
             <div
               style={{ fontSize: 11, color: "#666", fontFamily: "sans-serif" }}
             >
-              © 2026 Kusuma Jewels. All rights reserved.
+              © 2026 KUSUMA JEWELS PRIVATE LIMITED. All rights reserved.
             </div>
             <div
               style={{
